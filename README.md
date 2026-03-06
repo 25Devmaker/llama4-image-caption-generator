@@ -1,6 +1,8 @@
-# Image Prompt Generator
+AI Image → Prompt Generator (Groq + Llama-4)
 
-A simple chat UI built with "Gradio" and "Groq" that generates detailed image prompts from uploaded images using AI.
+Convert any image into a high-quality AI generation prompt using the Groq API and Meta Llama-4 Scout.
+This tool analyzes an uploaded image and produces a structured prompt optimized for Stable Diffusion, Midjourney, and other generative models.
+Built with Python, Gradio, and Groq's ultra-fast inference platform.
 
 ## 🎯 Features
 
